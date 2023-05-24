@@ -26,4 +26,7 @@ Others Insights:
 2. How much was spent over all on each genre?
 3. how many songs per genre the music store has?
 
+![image](https://github.com/parasf001/Music-Store-Analysis/assets/134538885/f748399a-f0c4-4e91-976b-0f5d9054d87f)
+
+
 
